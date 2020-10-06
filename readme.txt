@@ -1,3 +1,5 @@
+This project was made to work on Transfer Learning and the data is trained on ResNet50 model which is available in Keras 
+
 The malaria dataset we will be using in today’s deep learning and medical image analysis tutorial is the exact same dataset that Rajaraman et al. used in their 2018 publication.
 
 The dataset itself can be found on the official NIH webpage:
